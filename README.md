@@ -1,7 +1,6 @@
 <div align="center">
 
-# tryiteditor.com
-## https://tryiteditor.com
+# tryiteditor
 
 </div>
 
